@@ -1,0 +1,36 @@
+html {
+    background-color: black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    
+
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    color: whitesmoke;
+    text-align: center;
+}
+
+body {
+    background-color: palevioletred;
+  }
+
+  p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  img{
+    border-image-width: auto;
+    image-align: center;
+
+  }
+
